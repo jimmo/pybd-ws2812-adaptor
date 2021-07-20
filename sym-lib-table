@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MicroPython_Pyboard)(type Legacy)(uri ${KICAD_MPY_DIR}/MicroPython_Pyboard.lib)(options "")(descr ""))
+  (lib (name SN74AHCT125DR)(type Legacy)(uri ${KIPRJMOD}/SN74AHCT125DR.lib)(options "")(descr ""))
+)
